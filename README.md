@@ -14,7 +14,7 @@ Este é um site desenvolvido apenas com HTML5 e CSS3. O objetivo é treinar estr
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
-2. Abra o arquivo no navegador
+2. Abra o arquivo no navegador:
 ```bash 
 index.html
 ```
